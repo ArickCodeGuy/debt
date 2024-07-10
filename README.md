@@ -3,9 +3,9 @@
  - 2048
  - merge sort
  - bucket sort
- - trie
  - heap: priority queue
  - server side events sse
  - Thinking fast and slow. Daniel Kahneman
  - Typescript challenges. Go through at least medium https://github.com/type-challenges/type-challenges
  - Learn full split
+ - Be speaker at IT conf
