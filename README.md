@@ -1,5 +1,5 @@
 # Repo for remembering my future goals
- - 365 leetcode (267 atm)
+ - 365 leetcode +
  - 2048
  - merge sort
  - bucket sort
@@ -9,3 +9,4 @@
  - Typescript challenges. Go through at least medium https://github.com/type-challenges/type-challenges
  - Learn full split
  - Be speaker at IT conf
+ - server side events sse
