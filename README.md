@@ -9,4 +9,3 @@
  - Typescript challenges. Go through at least medium https://github.com/type-challenges/type-challenges
  - Learn full split
  - Be speaker at IT conf
- - server side events sse
