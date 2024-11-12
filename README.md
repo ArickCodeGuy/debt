@@ -1,5 +1,5 @@
 # Repo for remembering my future goals
- - 365 leetcode +
+ - 365 (leetcode)[https://leetcode.com/u/ArickCodeGuy/] (500+) +
  - Thinking fast and slow. Daniel Kahneman +
  - merge sort +
  - 2048
