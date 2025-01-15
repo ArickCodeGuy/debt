@@ -2,10 +2,12 @@
  - 365 [leetcode](https://leetcode.com/u/ArickCodeGuy/) (500+) +
  - Thinking fast and slow. Daniel Kahneman +
  - merge sort +
- - 2048
+ - [2048](https://github.com/ArickCodeGuy/2048_svelte) +
+ - A*
+ - testing
  - bucket sort
  - heap: priority queue
  - server side events sse
- - Typescript challenges. Go through at least medium https://github.com/type-challenges/type-challenges
+ - [Typescript challenges](https://github.com/type-challenges/type-challenges). Go through at least medium 
  - Learn full split
  - Be speaker at IT conf
