@@ -3,8 +3,10 @@
  - Thinking fast and slow. Daniel Kahneman +
  - merge sort +
  - [2048](https://github.com/ArickCodeGuy/2048_svelte) +
+ - [testing (jest)](https://github.com/ArickCodeGuy/jest-test) +
+ - ci/cd
+ - ssr (next.js)
  - A*
- - testing
  - bucket sort
  - heap: priority queue
  - server side events sse
