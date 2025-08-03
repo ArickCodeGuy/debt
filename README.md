@@ -1,8 +1,8 @@
 # Repo for remembering my future goals
 2025
  - Land a job abroad
- - Bench 130kg
  - Run 10km marathon
+ - Learn [java](https://github.com/ArickCodeGuy/java-backend-journey?tab=readme-ov-file) 
  - [testing (jest)](https://github.com/ArickCodeGuy/jest-test) +
  - Get to 1000 on [leetcode](https://leetcode.com/u/ArickCodeGuy/) +
  - [A*](https://github.com/ArickCodeGuy/a-star) +
@@ -14,6 +14,7 @@ Backlog
  - Learn full split
  - Be speaker at IT conf
  - Big tech job
+ - Bench 130kg
 
 2024
  - 365 [leetcode](https://leetcode.com/u/ArickCodeGuy/) (500+) +
