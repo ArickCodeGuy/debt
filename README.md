@@ -17,17 +17,17 @@
 ## 2025
  - [ ] Land a job abroad
  - [ ] Run 10km marathon
- - [ ] 10% on leetcode
+ - [ ] 10% contest rating on leetcode
  - [ ] Pick a book and read it. Something not technical or I'll go insane doing only work
  - [x] Learn [java](https://github.com/ArickCodeGuy/java-backend-journey?tab=readme-ov-file)
  - [x] [testing (jest)](https://github.com/ArickCodeGuy/jest-test)
- - [x] Get to 1000 on [leetcode](https://leetcode.com/u/ArickCodeGuy/)
+ - [x] 1000 questions on [leetcode](https://leetcode.com/u/ArickCodeGuy/)
  - [x] [A*](https://github.com/ArickCodeGuy/a-star)
  - [x] Visit new places. Visited: Thailand, Cambodia, Malaysia, Indonesia, Vietnam
 
 ## 2024
- - [x] 365 [leetcode](https://leetcode.com/u/ArickCodeGuy/) (500+)
+ - [x] 500 questions on [leetcode](https://leetcode.com/u/ArickCodeGuy/)
  - [x] Thinking fast and slow. Daniel Kahneman
- - [x] merge sort
+ - [x] Merge sort
  - [x] [2048](https://github.com/ArickCodeGuy/2048_svelte)
  - [x] Bench 110kg
