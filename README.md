@@ -1,13 +1,18 @@
 # Repo for remembering my future goals
 
 ## Backlog
- - [ ] ci/cd
- - [ ] ssr (next.js)
- - [ ] [Typescript challenges](https://github.com/type-challenges/type-challenges). Go through at least medium 
  - [ ] Learn full split
  - [ ] Be speaker at IT conf
  - [ ] Big tech job
  - [ ] Bench 130kg
+
+## 2026
+ - [ ] [Backend journey](https://github.com/ArickCodeGuy/java-backend-journey)
+ - [ ] [Typescript challenges](https://github.com/type-challenges/type-challenges). Go through at least medium
+ - [ ] SSR (next.js)
+ - [ ] Do real backend on a job
+ - [ ] [Figma clone](https://github.com/ArickCodeGuy/figma-clone)
+ - [ ] Visit at least 3 new countries
 
 ## 2025
  - [ ] Land a job abroad
@@ -18,6 +23,7 @@
  - [x] [testing (jest)](https://github.com/ArickCodeGuy/jest-test)
  - [x] Get to 1000 on [leetcode](https://leetcode.com/u/ArickCodeGuy/)
  - [x] [A*](https://github.com/ArickCodeGuy/a-star)
+ - [x] Visit new places. Visited: Thailand, Cambodia, Malaysia, Indonesia, Vietnam
 
 ## 2024
  - [x] 365 [leetcode](https://leetcode.com/u/ArickCodeGuy/) (500+)
