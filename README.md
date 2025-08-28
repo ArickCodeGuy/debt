@@ -1,6 +1,7 @@
 # Repo for remembering my future goals
 
 ## Backlog
+Probably too hard. Need decomposition
  - [ ] Learn full split
  - [ ] Be speaker at IT conf
  - [ ] Big tech job
