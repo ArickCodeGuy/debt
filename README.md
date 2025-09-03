@@ -17,7 +17,7 @@ Probably too hard. Need decomposition
 
 ## 2025
  - [ ] Land a job abroad
- - [ ] Run 10km marathon
+ - [ ] Run 10km (1/4 marathon)
  - [ ] 10% contest rating on leetcode
  - [ ] Pick a book and read it. Something not technical or I'll go insane doing only work
  - [x] Learn [java](https://github.com/ArickCodeGuy/java-backend-journey?tab=readme-ov-file)
