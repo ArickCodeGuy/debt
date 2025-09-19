@@ -19,7 +19,7 @@ Probably too hard. Need decomposition
  - [ ] Land a job abroad
  - [ ] Run 10km (1/4 marathon)
  - [ ] 10% contest rating on leetcode
- - [ ] Pick a book and read it. Something not technical or I'll go insane doing only work
+ - [x] Pick a book and read it. Something not technical or I'll go insane doing only work (Горе от ума. Грибоедов)
  - [x] Learn [java](https://github.com/ArickCodeGuy/java-backend-journey?tab=readme-ov-file)
  - [x] [testing (jest)](https://github.com/ArickCodeGuy/jest-test)
  - [x] 1000 questions on [leetcode](https://leetcode.com/u/ArickCodeGuy/)
