@@ -3,7 +3,7 @@
 Probably too hard. Need decomposition
 
 - [ ] Learn full split
-  - [ ] Add 5 minutes of stretching to workouts
+  - [ ] Add 5 minutes of stretching to workouts (2026 goal wip)
 - [ ] Be speaker at IT conf. Do I even have anything to say?
   - [ ] Attend IT conf and ask other speakers how they started that journey
   - [ ] Consult organizers. Ask to help
