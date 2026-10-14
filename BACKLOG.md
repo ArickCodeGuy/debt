@@ -1,6 +1,6 @@
 # Backlog
 
-Probably too hard. Need decomposition
+Probably too hard. Need decomposition. Or for unknown future.
 
 - [ ] Big tech job
   - [ ] Select companies that I want to work
@@ -8,3 +8,5 @@ Probably too hard. Need decomposition
   - [ ] Look for other peoples journey that got them in those companies
   - [ ] Refferals
   - [ ] Once get interview. Solve at least 3 online assessments on leetcode
+- [ ] https://repovive.com/roadmaps/dynamic-programming?section=recursion-fundamentals&unit=intro
+- [ ] https://app.codecrafters.io/courses/git/introduction
