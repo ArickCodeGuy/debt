@@ -1,55 +1,57 @@
-https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming
-https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/solutions/6825168/count-children-skip-branches-dive-into-the-right-prefix-k-lex-number-in-o-log-n/?envType=daily-question&envId=2025-06-09
-https://leetcode.com/problems/sum-of-k-mirror-numbers/solutions/6873949/beginner-freindly-java-c-python/?envType=daily-question&envId=2025-06-23
-https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/?envType=daily-question&envId=2025-08-23
-https://leetcode.com/problems/fruits-into-baskets-iii/solutions/7049476/using-max-segment-tree-with-images-c-python-java/?envType=daily-question&envId=2025-08-06
-https://leetcode.com/problems/bus-routes/description/
-https://leetcode.com/problems/minimum-cost-path-with-teleportations/solutions/7089519/clear-and-intuitive-explaination-top-down-dp/
-https://leetcode.com/problems/valid-arrangement-of-pairs/solutions/6096049/beats-100-wild-fire-solution-easy-and-si-dxb2/
-https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/solutions/7367460/simple-greedy-solution-visualization-by-qy9wc/
-https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/
-https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/
-https://leetcode.com/problems/count-number-of-trapezoids-ii/description/?envType=daily-question&envId=2025-12-03
-https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/?envType=daily-question&envId=2025-12-06
-https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid/description/
-https://leetcode.com/problems/trionic-array-ii/description/
-https://leetcode.com/problems/count-beautiful-substrings-ii/
-https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/
-https://leetcode.com/problems/minimum-number-of-refueling-stops/description/
-https://leetcode.com/problems/count-valid-paths-in-a-tree/solutions/4082775/dfstree-dp-in-c-java-python-by-cpcs-rdst/
-https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/description/
-https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/
-https://leetcode.com/problems/maximum-partition-factor/description/
-https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/?envType=daily-question&envId=2026-02-27
-https://leetcode.com/problems/number-of-effective-subsequences/solutions/7368610/inclusion-exclusion-principle-sos-dp-bit-i5bv/
-https://leetcode.com/problems/get-the-maximum-score/description/
-https://leetcode.com/problems/number-of-pairs-after-increment/description/
-https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/description/
-https://leetcode.com/problems/jump-game-vi/description/
-https://leetcode.com/problems/maximum-total-subarray-value-ii/solutions/8324860/draft-by-la_castille-f93m/?envType=daily-question&envId=2026-06-10
-https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps/solutions/8332912/step-by-step-derivation-brute-force-gree-vd59/
-https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/description/
-https://leetcode.com/problems/shortest-path-in-a-weighted-tree/description/
-https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/
-https://leetcode.com/problems/prime-subset-selection-ii/description/
-https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/
-https://leetcode.com/problems/critical-connections-in-a-network/description/
-https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/description/
-https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/
-https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/solutions/6539701/modified-trie-by-donpaul271-4q85/
-https://leetcode.com/problems/valid-k-unique-subarrays-i/description/
-https://leetcode.com/problems/maximum-valid-split-positions-ii/description/
-https://leetcode.com/problems/longest-balanced-subarray-ii/
-https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/
-https://leetcode.com/problems/count-the-number-of-powerful-integers/description/
-https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/description/
-https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n/description/
+# Problems
+## Leetcode
+- [ ] [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming)
+- [ ] [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/solutions/6825168/count-children-skip-branches-dive-into-the-right-prefix-k-lex-number-in-o-log-n/?envType=daily-question&envId=2025-06-09)
+- [ ] [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/solutions/6873949/beginner-freindly-java-c-python/?envType=daily-question&envId=2025-06-23)
+- [ ] [Find the Minimum Area to Cover All Ones II](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/description/?envType=daily-question&envId=2025-08-23)
+- [ ] [Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/solutions/7049476/using-max-segment-tree-with-images-c-python-java/?envType=daily-question&envId=2025-08-06)
+- [ ] [Bus Routes](https://leetcode.com/problems/bus-routes/description/)
+- [ ] [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/solutions/7089519/clear-and-intuitive-explaination-top-down-dp/)
+- [ ] [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/solutions/6096049/beats-100-wild-fire-solution-easy-and-si-dxb2/)
+- [ ] [Lexicographically Smallest Negated Permutation that Sums to Target](https://leetcode.com/problems/lexicographically-smallest-negated-permutation-that-sums-to-target/solutions/7367460/simple-greedy-solution-visualization-by-qy9wc/)
+- [ ] [Find Beautiful Indices in the Given Array II](https://leetcode.com/problems/find-beautiful-indices-in-the-given-array-ii/description/)
+- [ ] [Maximum Number that Sum of the Prices is Less than or Equal to K](https://leetcode.com/problems/maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k/description/)
+- [ ] [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii/description/?envType=daily-question&envId=2025-12-03)
+- [ ] [Count Partitions with Max-Min Difference at Most K](https://leetcode.com/problems/count-partitions-with-max-min-difference-at-most-k/description/?envType=daily-question&envId=2025-12-06)
+- [ ] [Count Routes to Climb a Rectangular Grid](https://leetcode.com/problems/count-routes-to-climb-a-rectangular-grid/description/)
+- [ ] [Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/)
+- [ ] [Count Beautiful Substrings II](https://leetcode.com/problems/count-beautiful-substrings-ii/)
+- [ ] [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii/description/)
+- [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/description/)
+- [ ] [Count Valid Paths in a Tree](https://leetcode.com/problems/count-valid-paths-in-a-tree/solutions/4082775/dfstree-dp-in-c-java-python-by-cpcs-rdst/)
+- [ ] [Minimum Inversion Count in Subarrays of Fixed Length](https://leetcode.com/problems/minimum-inversion-count-in-subarrays-of-fixed-length/description/)
+- [ ] [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor/description/)
+- [ ] [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string/description/?envType=daily-question&envId=2026-02-27)
+- [ ] [Number of Effective Subsequences](https://leetcode.com/problems/number-of-effective-subsequences/solutions/7368610/inclusion-exclusion-principle-sos-dp-bit-i5bv/)
+- [ ] [Get the Maximum Score](https://leetcode.com/problems/get-the-maximum-score/description/)
+- [ ] [Number of Pairs after Increment](https://leetcode.com/problems/number-of-pairs-after-increment/description/)
+- [ ] [Count Non-Adjacent Subsets in a Rooted Tree](https://leetcode.com/problems/count-non-adjacent-subsets-in-a-rooted-tree/description/)
+- [ ] [Jump Game VI](https://leetcode.com/problems/jump-game-vi/description/)
+- [ ] [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/solutions/8324860/draft-by-la_castille-f93m/?envType=daily-question&envId=2026-06-10)
+- [ ] [Maximum Subarray Sum after at Most K Swaps](https://leetcode.com/problems/maximum-subarray-sum-after-at-most-k-swaps/solutions/8332912/step-by-step-derivation-brute-force-gree-vd59/)
+- [ ] [Minimum Number of String Groups Through Transformations](https://leetcode.com/problems/minimum-number-of-string-groups-through-transformations/description/)
+- [ ] [Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree/description/)
+- [ ] [Maximize Count of Distinct Primes after Split](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split/description/)
+- [ ] [Prime Subset Selection II](https://leetcode.com/problems/prime-subset-selection-ii/description/)
+- [ ] [Maximize Meeting Earnings with Idle Gaps](https://leetcode.com/problems/maximize-meeting-earnings-with-idle-gaps/)
+- [ ] [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/description/)
+- [ ] [Minimum Weighted Subgraph with the Required Paths II](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii/description/)
+- [ ] [Find a Value of a Mysterious Function Closest to Target](https://leetcode.com/problems/find-a-value-of-a-mysterious-function-closest-to-target/description/)
+- [ ] [Longest Common Prefix of K Strings after Removal](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/solutions/6539701/modified-trie-by-donpaul271-4q85/)
+- [ ] [Valid K-Unique Subarrays I](https://leetcode.com/problems/valid-k-unique-subarrays-i/description/)
+- [ ] [Maximum Valid Split Positions II](https://leetcode.com/problems/maximum-valid-split-positions-ii/description/)
+- [ ] [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/)
+- [ ] [Distribute Elements Into Two Arrays II](https://leetcode.com/problems/distribute-elements-into-two-arrays-ii/description/)
+- [ ] [Count the Number of Powerful Integers](https://leetcode.com/problems/count-the-number-of-powerful-integers/description/)
+- [ ] [Number of Possible Sets of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/description/)
+- [ ] [Count No-Zero Pairs that Sum to N](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n/description/)
 
-https://codeforces.com/blog/entry/82103?mobile=true
-https://neetcode.io/practice/practice/systemDesign
-https://sqlbolt.com/
-https://cses.fi/problemset/
-https://codeforces.com/blog/entry/133289
-https://leetcode.com/discuss/post/6879756/new-trending-company-questions-vol-4-by-m0yk1/
-https://leetcode.com/discuss/post/7396374/trending-heap-questions-by-ashnub-msue/
-https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/
+## Other
+- [ ] [Codeforces blog: entry 82103](https://codeforces.com/blog/entry/82103?mobile=true)
+- [ ] [NeetCode: System Design practice](https://neetcode.io/practice/practice/systemDesign)
+- [ ] [SQLBolt](https://sqlbolt.com/)
+- [ ] [CSES Problem Set](https://cses.fi/problemset/)
+- [ ] [Codeforces blog: entry 133289](https://codeforces.com/blog/entry/133289)
+- [ ] [LeetCode Discuss: New Trending Company Questions Vol 4](https://leetcode.com/discuss/post/6879756/new-trending-company-questions-vol-4-by-m0yk1/)
+- [ ] [LeetCode Discuss: Trending Heap Questions](https://leetcode.com/discuss/post/7396374/trending-heap-questions-by-ashnub-msue/)
+- [ ] [LeetCode Discuss: Dynamic Programming Patterns](https://leetcode.com/discuss/post/458695/dynamic-programming-patterns-by-aatalyk-pmgr/)
