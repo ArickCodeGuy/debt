@@ -1,5 +1,6 @@
 # Problems
 ## Leetcode
+- [ ] [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/)
 - [ ] [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming)
 - [ ] [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/solutions/6825168/count-children-skip-branches-dive-into-the-right-prefix-k-lex-number-in-o-log-n/?envType=daily-question&envId=2025-06-09)
 - [ ] [Sum of k-Mirror Numbers](https://leetcode.com/problems/sum-of-k-mirror-numbers/solutions/6873949/beginner-freindly-java-c-python/?envType=daily-question&envId=2025-06-23)
