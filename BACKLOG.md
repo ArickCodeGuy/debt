@@ -10,3 +10,4 @@ Probably too hard. Need decomposition. Or for unknown future.
   - [ ] Once get interview. Solve at least 3 online assessments on leetcode
 - [ ] https://repovive.com/roadmaps/dynamic-programming?section=recursion-fundamentals&unit=intro
 - [ ] https://app.codecrafters.io/courses/git/introduction
+- [ ] [Java project ideas](https://roadmap.sh/java/projects)
