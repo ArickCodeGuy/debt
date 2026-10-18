@@ -3,6 +3,7 @@
 Most of those are hard problems with 2000+ rating
 
 ## Leetcode
+- [ ] [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 - [ ] [Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/)
 - [ ] [Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming)
 - [ ] [K-th Smallest in Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/solutions/6825168/count-children-skip-branches-dive-into-the-right-prefix-k-lex-number-in-o-log-n/?envType=daily-question&envId=2025-06-09)
