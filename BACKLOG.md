@@ -11,3 +11,5 @@ Probably too hard. Need decomposition. Or for unknown future.
 - [ ] https://repovive.com/roadmaps/dynamic-programming?section=recursion-fundamentals&unit=intro
 - [ ] https://app.codecrafters.io/courses/git/introduction
 - [ ] [Java project ideas](https://roadmap.sh/java/projects)
+- [ ] SSR (next.js). Just go through api and implement some basics
+- [ ] [Typescript challenges](https://github.com/type-challenges/type-challenges). Go through at least medium
