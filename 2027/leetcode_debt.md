@@ -4,6 +4,8 @@ Most of those are hard problems with 2000+ rating
 
 ## Leetcode
 - [ ] [3886. Sum of Sortable Integers](https://leetcode.com/problems/sum-of-sortable-integers/description/)
+- [ ] [4085. Find Root of a Colored Tree](https://leetcode.com/problems/find-root-of-a-colored-tree/description/)
+- [ ] [4086. Minimum Interval Selection to Cover Target Intervals](https://leetcode.com/problems/minimum-interval-selection-to-cover-target-intervals/description/)
 - [ ] [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)
 - [ ] [2916. Subarrays Distinct Element Sum of Squares II](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-ii/description/)
 - [ ] [1255. Maximum Score Words Formed by Letters](https://leetcode.com/problems/maximum-score-words-formed-by-letters/description/?envType=problem-list-v2&envId=dynamic-programming)
